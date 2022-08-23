@@ -4,7 +4,7 @@ date = "2022-08-23"
 draft = false
 pinned = false
 image = "webseiten-erstellen-berlin.png"
-footnotes = "Geschrieben von Erdi Qosi WM 20B"
+footnotes = "Geschrieben von Erdi Qosi WM20B"
 +++
 Am 16.08.2022 hatten wir das erste Mal WEB Unterricht. An diesem Tag wurde uns das Fach und alles was wichtig ist erklärt. Nach den Erklärungen haben wir den ersten Auftrag erhalten. 
 
