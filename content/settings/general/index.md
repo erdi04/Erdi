@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Erdi's Blog"
-description = "A Journey of Life and Learning"
+description = "Die besten und spannendsten Blog's"
 footerLeft = "Powered by ❤️ and [lernblog.org](https://www.lernblog.org)"
 footerRight = ""
 +++
