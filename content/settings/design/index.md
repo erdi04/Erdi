@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
+icon = ""
 logo = ""
 image = "/media/ds.webp"
 color = "#3d6a7f"
