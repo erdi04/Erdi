@@ -1,13 +1,11 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## About me
 
-mail@example.org
-
-Here should be some info about me...
+Dieser Blog wir von mir Erdi Qosi geführt. Ich besuche die Wirtschaftsmittelschule Bern.
