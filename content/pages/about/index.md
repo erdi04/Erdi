@@ -8,4 +8,4 @@ description = ""
 
 ## Erdi Qosi
 
-Dieser Blog wird von mir Erdi Qosi geführt. Ich bin 18 Jahre alt und komme aus Thun. Ich besuche die Wirtschaftsmittelschule in Bern.
+Dieser Blog wird von mir Erdi Qosi geführt. Ich bin 18 Jahre alt und komme aus Thun. Ich besuche die Wirtschaftsmittelschule in Bern. Ich besuche das 3. Schuljahr und habe das Wahlfach WEB gewählt.
