@@ -8,4 +8,4 @@ description = ""
 
 ## About me
 
-Dieser Blog wir von mir Erdi Qosi geführt. Ich besuche die Wirtschaftsmittelschule Bern.
+Dieser Blog wir von Erdi Qosi geführt. Ich besuche die Wirtschaftsmittelschule Bern Klasse WM20B.
