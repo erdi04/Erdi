@@ -4,8 +4,8 @@ draft = false
 image = ""
 description = ""
 +++
-![](/img/default-author.jpg)
+![](schonste-stadte-in-deutschland.jpg)
 
-## About me
+## Erdi Qosi
 
-Dieser Blog wir von Erdi Qosi geführt. Ich besuche die Wirtschaftsmittelschule Bern Klasse WM20B.
+Dieser Blog wird von mir Erdi Qosi geführt. Ich bin 18 Jahre alt und komme aus Thun. Ich besuche die Wirtschaftsmittelschule in Bern.
