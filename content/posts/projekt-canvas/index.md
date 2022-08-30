@@ -3,7 +3,7 @@ title = "Projekt Canvas"
 date = "2022-08-30"
 draft = false
 pinned = false
-image = "https://www.projektmagazin.de/glossarterm/business-model-canvas"
+image = "images.png"
 footnotes = "Geschrieben von Erdi Qosi WM20B"
 +++
 Heute haben Benjamin und ich mit unserem Canvas Projekt gestartet. Wir haben ein Canvas Blatt erhalten, welches wir ausfüllen mussten. Darauf waren verschiedene Bereiche wie zum Beispiel: Problem, Lösung und vieles mehr, aber erst mal mussten wir ein Projekt haben.
