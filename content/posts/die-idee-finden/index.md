@@ -35,3 +35,6 @@ Probleme sind getarnte Geschäftsideen, die einem sehr weiterhelfen können. Wen
 ![https://www.thefoundersdiary.com/selbststaendig-machen-ideen/](blob:https://erdi04.netlify.app/988b2283-b6f4-4808-baed-8d17ebb70a8f)
 
 <!--EndFragment-->
+
+**Wieso habe ich dieses Thema gewählt?**\
+Am Anfang des Auftrages hatte ich verschiedene Themen zur Auswahl. Man hatte viele spannende Themen zum Bearbeiten. Ich habe dieses Thema gewählt, da es mir manchmal schwer fällt auf gute Ideen zu kommen. Durch diesen Blog und durch die neuen Informationen, die mein Wissen erweitert haben, kann ich in Zukunft gute Ideen entwickeln. Es hat mir sehr geholfen, weil man Ideen immer braucht. Sei es, um ein Business zu starten oder in der Schule in einer Projektarbeit. Zu meiner Selbstreflexion kann ich sagen, dass ich sehr zufrieden mit meinem Blog bin und ich diesen Auftrag sehr gerne erledigt habe.
