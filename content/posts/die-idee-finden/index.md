@@ -15,7 +15,7 @@ Welche Probleme belasten sie am meisten?
 
 <!--StartFragment-->
 
-![Die besten Geschäftsideen - Wie findet man eine Geschäftsidee - JUGEND  GRÜNDET](https://www.jugend-gruendet.de/fileadmin/01-themen/Business_Academy/1-Soll_ich_gruenden/Ist-meine-Geschaeftsidee-gut.png)
+![https://www.jugend-gruendet.de/business-academy/soll-ich-gruenden/was-ist-eine-geschaeftsidee](https://www.jugend-gruendet.de/fileadmin/01-themen/Business_Academy/1-Soll_ich_gruenden/Ist-meine-Geschaeftsidee-gut.png)
 
 <!--EndFragment-->
 
