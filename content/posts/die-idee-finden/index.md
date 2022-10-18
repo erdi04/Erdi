@@ -30,4 +30,8 @@ Eine andere Art, um eine gute Idee zu finden ist, die **Megatrends** zu beobacht
 Der letzte Ansatz ist auf was man **Lust** hat. Man sollte schauen, welche **Bereiche / Themen** einem interessieren. Denn wenn man von dem begeistert ist, ist man viel motivierter und man hält in schweren Zeiten besser durch. 
 
 **Nochmal alles zusammengefasst:**\
-Probleme sind getarnte Geschäftsideen, die einem sehr weiterhelfen können. Wenn man so ein Problem entdeckt, soll man nach einer Lösung suchen und das ist dann die Idee. Es kann eine Dienstleistung oder ein Produkt sein. Was man auch machen kann ist, dass man nach einer Verbesserungsidee sucht. Das ist wie man ein Produkt oder eine Dienstleistung verbessern kann. Eine andere Möglichkeit ist, dass man die Megatrends beobachtet. Man hält Ausschau nach einem Produkt, welches Zukunftspotential hat.
+Probleme sind getarnte Geschäftsideen, die einem sehr weiterhelfen können. Wenn man so ein Problem entdeckt, soll man nach einer Lösung suchen und das ist dann die Idee. Es kann eine Dienstleistung oder ein Produkt sein. Was man auch machen kann ist, dass man nach einer Verbesserungsidee sucht. Das ist wie man ein Produkt oder eine Dienstleistung verbessern kann. Eine andere Möglichkeit ist, dass man die Megatrends beobachtet. Man hält Ausschau nach einem Produkt, welches Zukunftspotential hat.<!--StartFragment-->
+
+![](blob:https://erdi04.netlify.app/988b2283-b6f4-4808-baed-8d17ebb70a8f)
+
+<!--EndFragment-->
