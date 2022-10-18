@@ -19,6 +19,13 @@ Welche Probleme belasten sie am meisten?
 
 <!--EndFragment-->
 
-Worin man auch Ausschau halten kann wäre eine Verbesserungsidee. Wie kann man diverse Produkte verbessern. Man kann das Design, die Funktionalität und die Nutzerfreundlichkeit oder auch den Kundensupport. Eine andere Art um eine gute Idee zu finden ist, die Megatrends zu beobachten. Megatrends sind Produkte oder Dienstleistungen, die Zukunftspotential haben.
+Worin man auch Ausschau halten kann wäre eine Verbesserungsidee. Wie kann man diverse Produkte verbessern? Man kann es auf diese Art und Weise verbessern:
+
+* Design 
+* Funktionalität
+* Nutzerfreundlichkeit 
+* Kundensupport
+
+Eine andere Art um eine gute Idee zu finden ist, die Megatrends zu beobachten. Megatrends sind Produkte oder Dienstleistungen, die Zukunftspotential haben.
 
 Der letzte Ansatz ist auf was man Lust hat. Man sollte schauen, welche Bereiche / Themen einem interessieren. Denn wenn man von dem begeistert ist, ist man viel motivierter und man hält in schweren Zeiten besser durch.
