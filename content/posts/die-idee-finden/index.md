@@ -10,7 +10,7 @@ footnotes = "Geschrieben von Erdi Qosi WM20B"
 
 Um auf eine gute Geschäftsidee zu kommen, sollte man sich überlegen, was einen richtig nervt. Wie zum Beispiel wenn man in der Nacht wegen dem Lärm nicht schlafen kann oder wenn man immer Sachen vergisst. Man sagt Probleme sind getarnte Geschäftsideen. Bei jedem Problem sollte man nachdenken, wie man es lösen kann. So bekommt man neue Ideen für ein Produkt oder eine Dienstleistung. 
 
-Man sollte sich über zwei Sachen Gedanken machen. Welche Probleme betreffen besonders viele Menschen? Und Welche Probleme belasten sie am meisten? 
+Man sollte sich über zwei Sachen Gedanken machen. Welche Probleme betreffen besonders viele Menschen? Und welche Probleme belasten sie am meisten? 
 
 <!--StartFragment-->
 
