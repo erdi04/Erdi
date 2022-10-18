@@ -13,6 +13,12 @@ Um auf eine gute Geschäftsidee zu kommen, sollte man sich überlegen, was einen
 Man sollte sich über zwei Sachen Gedanken machen. Welche Probleme betreffen besonders viele Menschen? Und \
 Welche Probleme belasten sie am meisten? 
 
+<!--StartFragment-->
+
+![Die besten Geschäftsideen - Wie findet man eine Geschäftsidee - JUGEND  GRÜNDET](https://www.jugend-gruendet.de/fileadmin/01-themen/Business_Academy/1-Soll_ich_gruenden/Ist-meine-Geschaeftsidee-gut.png)
+
+<!--EndFragment-->
+
 Worin man auch Ausschau halten kann wäre eine Verbesserungsidee. Wie kann man diverse Produkte verbessern. Man kann das Design, die Funktionalität und die Nutzerfreundlichkeit oder auch den Kundensupport. Eine andere Art um eine gute Idee zu finden ist, die Megatrends zu beobachten. Megatrends sind Produkte oder Dienstleistungen, die Zukunftspotential haben.
 
 Der letzte Ansatz ist auf was man Lust hat. Man sollte schauen, welche Bereiche / Themen einem interessieren. Denn wenn man von dem begeistert ist, ist man viel motivierter und man hält in schweren Zeiten besser durch.
