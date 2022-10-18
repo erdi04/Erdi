@@ -18,16 +18,16 @@ Um auf eine gute **Geschäftsidee** zu kommen, sollte man sich überlegen, was *
 
 <!--EndFragment-->
 
-Worin man auch Ausschau halten kann wäre eine **Verbesserungsidee**. Wie kann man diverse Produkte verbessern? Man kann es auf diese **Art und Weise** verbessern:
+Worin man auch Ausschau halten kann, wäre eine **Verbesserungsidee**. Wie kann man diverse Produkte verbessern? Man kann es auf diese **Art und Weise** verbessern:
 
 * Design 
 * Funktionalität
 * Nutzerfreundlichkeit 
 * Kundensupport
 
-Eine andere Art um eine gute Idee zu finden ist, die **Megatrends** zu beobachten. Megatrends sind Produkte oder Dienstleistungen, die **Zukunftspotential** haben.
+Eine andere Art, um eine gute Idee zu finden ist, die **Megatrends** zu beobachten. Megatrends sind Produkte oder Dienstleistungen, die **Zukunftspotential** haben.
 
 Der letzte Ansatz ist auf was man **Lust** hat. Man sollte schauen, welche **Bereiche / Themen** einem interessieren. Denn wenn man von dem begeistert ist, ist man viel motivierter und man hält in schweren Zeiten besser durch. 
 
 **Nochmal alles zusammengefasst:**\
-Probleme sind getarnte Geschäftsideen die einem sehr weiterhelfen können. Wenn man so ein Problem entdeckt, soll man nach einer Lösung suchen und das ist dann die Idee. Es kann eine Dienstleistung oder ein Produkt sein. Was man auch machen kann ist, dass man nach einer Verbesserungsidee sucht. Das ist wie man ein Produkt oder eine Dienstleistung verbessern kann. Eine andere Möglichkeit ist, dass man die Megatrends beobachtet. Man hält Ausschau nach einem Produkt das Zukunftspotential hat.
+Probleme sind getarnte Geschäftsideen, die einem sehr weiterhelfen können. Wenn man so ein Problem entdeckt, soll man nach einer Lösung suchen und das ist dann die Idee. Es kann eine Dienstleistung oder ein Produkt sein. Was man auch machen kann ist, dass man nach einer Verbesserungsidee sucht. Das ist wie man ein Produkt oder eine Dienstleistung verbessern kann. Eine andere Möglichkeit ist, dass man die Megatrends beobachtet. Man hält Ausschau nach einem Produkt, welches Zukunftspotential hat.
