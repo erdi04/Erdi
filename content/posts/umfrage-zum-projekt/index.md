@@ -3,7 +3,7 @@ title = "Umfrage zum Projekt"
 date = "2022-11-15"
 draft = false
 pinned = false
-image = "herunterladen.jpeg"
+image = "umfrage.jpg"
 footnotes = "Geschrieben von Erdi Qosi WM20B"
 +++
 Heute haben wir uns dazu entschieden, eine Umfrage zu machen. Wir interessieren uns für unsere Kunden und ihrer Meinung. Wir haben verschiedene Fragen in der Schule aufgestellt. Wir gingen in die Stadt und haben vor allem unsere Zielgruppe befragt, aber auch andere Menschen die neutraler Meinung sind. 
