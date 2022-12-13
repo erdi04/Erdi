@@ -1,6 +1,6 @@
 +++
 title = "Kundenbefragung"
-date = "2022-12-13"
+date = "2022-12-06"
 draft = false
 pinned = false
 image = "kundenzufriedenheit.webp"
