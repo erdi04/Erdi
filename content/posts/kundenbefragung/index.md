@@ -12,6 +12,12 @@ image = "kundenzufriedenheit.webp"
 
 Da wir jetzt den **Begriff** kennen überlegen wir uns was wichtig ist und was man **beachten** muss.﻿ Zunächst muss man sich überlegen, welche **Fragen** man stellen möchte. Es ist wichtig, dass man die Fragen so formuliert, dass sie **aufschlussreich** sind. Beispielsweise können Unternehmen Fragen stellen, die sich auf die **Zufriedenheit** beziehen. Unternehmen können auch Fragen stellen, die sich auf die **Erfahrungen** mit einem bestimmten Produkt/Dienstleistung sind oder ganz **neu gegründete Unternehmen** können eine Frage über ihre **Produkte** stellen. Wie die Befragten die Produkte finden, wäre ein Beispiel﻿.
 
-Ein Unternehmen soll nicht immer die gleiche Umfrageart machen. Es gibt verschiedene Arten von Umfragen:
+Ein Unternehmen soll nicht immer die gleiche **Umfrageart** machen. Es gibt verschiedene Arten von Umfragen:
 
-*
+* S﻿trassenumfrage
+* O﻿nline-Umfrage
+* T﻿elefonischeumfrage
+
+Jede Art von Umfrage hat **Vorteile** und **Nachteile**. Das Unternehmen selbst muss wissen, welche Art sie nutzten wollen.
+
+**N﻿ochmal alles zusammengefasst:**
